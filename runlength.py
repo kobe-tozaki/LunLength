@@ -10,5 +10,5 @@ for i in txt1[1 : ]:
         txt2+=str(n)
         n=1
 
-
+# 注釈
 print(f" 圧縮前: {txt1} --> 圧縮後: {txt2}")
